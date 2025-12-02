@@ -1,0 +1,24 @@
+{
+  "parsed": {
+    "subject": "test 1",
+    "description": "User reports that after a recent system update, Chrome automatically updated and all extensions, including the key extension required for Power Automate Desktop, were disabled, causing functionality loss.",
+    "reporter_email": null,
+    "priority": "medium",
+    "device": null,
+    "location": null,
+    "tags": [
+      "chrome",
+      "extensions",
+      "power automate",
+      "update"
+    ],
+    "suggested_actions": [
+      "Check Chrome version and rollback if necessary",
+      "Re-enable or reinstall the required Power Automate Desktop extension",
+      "Verify extension compatibility with the new Chrome version",
+      "Ensure Chrome policies do not block extensions"
+    ],
+    "confidence": 0.96,
+    "llm_used": true
+  }
+}

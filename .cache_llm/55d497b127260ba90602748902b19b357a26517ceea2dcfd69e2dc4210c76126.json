@@ -1,0 +1,24 @@
+{
+  "parsed": {
+    "subject": "test 1",
+    "description": "After the recent system update, Chrome automatically updated and all extensions, including the key extension required for Power Automate Desktop, were disabled, preventing the user from using Power Automate Desktop.",
+    "reporter_email": null,
+    "priority": "high",
+    "device": null,
+    "location": null,
+    "tags": [
+      "chrome",
+      "extensions",
+      "power automate",
+      "update"
+    ],
+    "suggested_actions": [
+      "Check extension compatibility",
+      "Reinstall the disabled extensions",
+      "Rollback Chrome to previous version",
+      "Verify Power Automate Desktop requirements"
+    ],
+    "confidence": 0.95,
+    "llm_used": true
+  }
+}

@@ -1,0 +1,8 @@
+From: alice@example.com
+Subject: Internet down on 3rd floor
+
+Hi team,
+Internet is not working on the 3rd floor since 10:30 AM. No one can connect to wifi.
+Please check urgently.
+Thanks,
+Alice

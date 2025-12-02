@@ -1,0 +1,23 @@
+{
+  "parsed": {
+    "subject": "Testing",
+    "description": "The HP Audio Control tab keeps popping up every two minutes, disrupting work and affecting presentations during important calls. The user requests a resolution as soon as possible.",
+    "reporter_email": null,
+    "priority": "high",
+    "device": "HP Audio Control",
+    "location": null,
+    "tags": [
+      "audio",
+      "popup",
+      "disruption",
+      "presentation"
+    ],
+    "suggested_actions": [
+      "Disable HP Audio Control tab",
+      "Update audio drivers",
+      "Check startup programs"
+    ],
+    "confidence": 0.97,
+    "llm_used": true
+  }
+}

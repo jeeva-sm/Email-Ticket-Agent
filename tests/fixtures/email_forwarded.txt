@@ -1,0 +1,11 @@
+From: charlie@example.com
+Subject: FW: Login issues for new joiner
+
+Hi,
+Forwarding below: the new employee cannot login to their laptop and gets authentication error.
+Original message:
+> From: newhire@example.com
+> Subject: Can't login
+> I get "authentication failed" when I try to login to my Windows laptop. Please help.
+Regards,
+Charlie

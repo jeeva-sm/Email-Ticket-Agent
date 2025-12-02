@@ -1,0 +1,12 @@
+From: bob@example.com
+Subject: Printer not working - Room 201
+Content-Type: text/html
+
+<html>
+  <body>
+    <p>Hello,</p>
+    <p>The printer in <b>Room 201</b> is showing paper jam error and won't print.</p>
+    <p>Please resolve when possible.</p>
+    <p>Thanks,<br/>Bob</p>
+  </body>
+</html>
